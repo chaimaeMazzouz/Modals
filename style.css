@@ -25,9 +25,9 @@
 
 .login button {
   display: inline-block;
-  padding: 0.3em;
+  padding: 10px;
   margin: 10px;
-  width: 80%;
+  width: 40%;
   background-color: #50abf1;
   color: #fff;
   font-family: "Roboto", helvetica, arial, sans-serif;
@@ -48,8 +48,8 @@
   background-color: #fefefe;
   margin: auto;
   border: 1px solid #888;
-  width: 60%;
-  height: 30%;
+  width: 40%;
+  height: 20%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   animation-name: animatetop;
   animation-duration: 0.4s;
@@ -70,7 +70,9 @@
     opacity: 1;
   }
 }
-
+#Refuse-container {
+  display: grid;
+}
 .close {
   color: #50abf1;
   float: right;

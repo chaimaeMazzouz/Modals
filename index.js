@@ -1,4 +1,4 @@
-var modal = document.getElementById("AcceptOrRefuse");
+var modal = document.getElementById("Refuse");
 var btnTry = document.getElementById("just-for-try");
 var span = document.getElementsByClassName("close")[0];
 
